@@ -14,6 +14,10 @@ images
 This project simulates a Security Operations Center (SOC) investigation involving a web discovery attack against a fictional banking institution ("FakeBank").
 
 As the SOC Operator, I analyzed the attack, investigated the source, and implemented defensive controls to mitigate the threat.
+## 🖼 Screenshots
+
+### SOC Dashboard
+![SOC Dashboard](Picture1.jpg)
 
 ---
 
