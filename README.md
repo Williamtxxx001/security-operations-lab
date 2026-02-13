@@ -19,6 +19,21 @@ As the SOC Operator, I analyzed the attack, investigated the source, and impleme
 ### SOC Dashboard
 ![SOC Dashboard](Picture1.jpg)
 
+### Attack Details
+![Attack Details](Picture2.jpg)
+
+### Threat Intelligence
+![Threat Intelligence](Picture3.jpg)
+
+### Blocking Source IP
+![Blocking Source IP](Picture4.jpg)
+
+### WAF Rule Configuration
+![WAF Rule](Picture5.jpg)
+
+### Successful Mitigation
+![Successful Mitigation](Picture6.jpg)
+
 ---
 
 ## 🚨 Incident Summary
