@@ -1,9 +1,21 @@
 images/test.txt
 security-operations-lab
- ├── README.md
- ├── Picture1.jpg
- ├── picture2.jpg
- ├── picture3.jpg
- ├── Picture4.jpg
- ├── picture5.jpg
- └── picture6.jpg
+## 🖼 Screenshots
+
+### SOC Dashboard
+![Dashboard](images/Picture1.jpg)
+
+### Attack Details
+![Attack Details](images/picture2.jpg)
+
+### Threat Intelligence
+![Threat Intelligence](images/picture3.jpg)
+
+### Blocking Source IP
+![Block IP](images/Picture4.jpg)
+
+### WAF Rule
+![WAF Rule](images/picture5.jpg)
+
+### Success
+![Success](images/picture6.jpg)
