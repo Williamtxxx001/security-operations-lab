@@ -63,24 +63,37 @@ The attacker attempted to enumerate sensitive admin URLs such as:
 ---
 
 ## 🖼 Screenshots
+## 🖼 Screenshots
 
 ### SOC Dashboard
-![Dashboard](images/dashboard.png)
+<p align="center">
+  <img src="images/dashboard.jpg" width="800"/>
+</p>
 
 ### Attack Details
-![Attack Details](images/attack-details.png)
+<p align="center">
+  <img src="images/attack-details.jpg" width="800"/>
+</p>
 
 ### Threat Intelligence
-![Threat Intelligence](images/threat-intel.png)
+<p align="center">
+  <img src="images/threat-intel.jpg" width="800"/>
+</p>
 
 ### Blocking Source IP
-![Block IP](images/block-ip.png)
+<p align="center">
+  <img src="images/block-ip.jpg" width="800"/>
+</p>
 
 ### WAF Rule Configuration
-![WAF Rule](images/waf-rule.png)
+<p align="center">
+  <img src="images/waf-rule.jpg" width="800"/>
+</p>
 
 ### Successful Mitigation
-![Success](images/success.png)
+<p align="center">
+  <img src="images/success.jpg" width="800"/>
+</p>
 
 ---
 
